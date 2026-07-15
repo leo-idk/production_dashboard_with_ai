@@ -1,0 +1,15 @@
+Date,Time,Production_Time,Machine,Good_Parts,Defects,Sector,Operator
+2026-04-01,08:00,480,CNC Lathe,450,12,Machining,João Silva
+2026-04-01,08:00,480,Milling Machine,320,5,Machining,Maria Souza
+2026-04-01,08:00,480,Injection Molding A,600,15,Plastics,Carlos Lima
+2026-04-01,08:00,480,Laser Cutter,800,8,Cutting,Ana Costa
+2026-04-01,14:00,360,CNC Lathe,340,18,Machining,Marcos Paulo
+2026-04-01,14:00,360,Milling Machine,210,12,Machining,Fernanda Dias
+2026-04-01,14:00,360,Injection Molding A,450,35,Plastics,Roberto Alves
+2026-04-02,08:00,480,CNC Lathe,460,10,Machining,João Silva
+2026-04-02,08:00,480,Milling Machine,330,4,Machining,Maria Souza
+2026-04-02,08:00,480,Injection Molding A,580,12,Plastics,Carlos Lima
+2026-04-02,08:00,480,Laser Cutter,810,5,Cutting,Ana Costa
+2026-04-02,14:00,360,CNC Lathe,350,15,Machining,Marcos Paulo
+2026-04-02,14:00,360,Milling Machine,220,10,Machining,Fernanda Dias
+2026-04-02,14:00,360,Injection Molding A,440,30,Plastics,Roberto Alves
