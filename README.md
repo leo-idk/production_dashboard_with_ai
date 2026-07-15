@@ -1,4 +1,4 @@
-## production_dashboard_with_ai
+## generative_ai_production_dashboard
 
 This web-based dashboard uses Streamlit and the GitHub Models API to monitor factory performance and answer technical questions using an interactive AI analyst. It displays key metrics and charts directly from a local CSV file, while maintaining a complete chat history in the session state for continuous data analysis.
 
